@@ -1,0 +1,7 @@
+com\learningmicroservices\productservice\service\ProductService.class
+com\learningmicroservices\productservice\dto\ProductRequest.class
+com\learningmicroservices\productservice\controller\ProductController.class
+com\learningmicroservices\productservice\model\Product.class
+com\learningmicroservices\productservice\repository\ProductRepository.class
+com\learningmicroservices\productservice\dto\ProductResponse.class
+com\learningmicroservices\productservice\ProductServiceApplication.class

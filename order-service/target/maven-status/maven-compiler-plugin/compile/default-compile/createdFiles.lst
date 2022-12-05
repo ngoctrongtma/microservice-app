@@ -1,0 +1,9 @@
+com\learningmicroservices\orderservice\dto\OrderLineItemDto.class
+com\learningmicroservices\orderservice\controller\OrderController.class
+com\learningmicroservices\orderservice\dto\OrderResponse.class
+com\learningmicroservices\orderservice\model\OrderLineItem.class
+com\learningmicroservices\orderservice\repository\OrderRepository.class
+com\learningmicroservices\orderservice\OrderServiceApplication.class
+com\learningmicroservices\orderservice\dto\OrderRequest.class
+com\learningmicroservices\orderservice\service\OrderService.class
+com\learningmicroservices\orderservice\model\Order.class

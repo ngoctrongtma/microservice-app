@@ -1,0 +1,5 @@
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\inventory-service\src\main\java\com\learningmicroservices\inventoryservice\InventoryServiceApplication.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\inventory-service\src\main\java\com\learningmicroservices\inventoryservice\controller\InventoryController.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\inventory-service\src\main\java\com\learningmicroservices\inventoryservice\repository\InventoryRepository.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\inventory-service\src\main\java\com\learningmicroservices\inventoryservice\service\InventoryService.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\inventory-service\src\main\java\com\learningmicroservices\inventoryservice\model\Inventory.java

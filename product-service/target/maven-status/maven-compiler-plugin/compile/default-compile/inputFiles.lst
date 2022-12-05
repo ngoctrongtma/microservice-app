@@ -1,0 +1,7 @@
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\product-service\src\main\java\com\learningmicroservices\productservice\dto\ProductRequest.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\product-service\src\main\java\com\learningmicroservices\productservice\model\Product.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\product-service\src\main\java\com\learningmicroservices\productservice\controller\ProductController.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\product-service\src\main\java\com\learningmicroservices\productservice\service\ProductService.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\product-service\src\main\java\com\learningmicroservices\productservice\repository\ProductRepository.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\product-service\src\main\java\com\learningmicroservices\productservice\dto\ProductResponse.java
+D:\programs\learning spring boot\app-learning-microservices\microservice-app\product-service\src\main\java\com\learningmicroservices\productservice\ProductServiceApplication.java
