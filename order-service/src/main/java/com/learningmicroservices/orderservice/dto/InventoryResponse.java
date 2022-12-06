@@ -1,4 +1,4 @@
-package com.learningmicroservices.inventoryservice.dto;
+package com.learningmicroservices.orderservice.dto;
 
 public class InventoryResponse {
     private String skuCode ;

@@ -1,9 +1,12 @@
 package com.learningmicroservices.inventoryservice.controller;
 
 
+import com.learningmicroservices.inventoryservice.dto.InventoryResponse;
 import com.learningmicroservices.inventoryservice.service.InventoryService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
 
 @RestController
 @RequestMapping("/api/v1/inventory")
@@ -15,9 +18,12 @@ public class InventoryController {
         this.inventoryService = inventoryService;
     }
 
-    @GetMapping("/{id}")
+
+    // uri= "/api/inventory?skuCode=iphone12&skuCode=iphone14"
+    @GetMapping
     @ResponseStatus(HttpStatus.OK)
-    public boolean isInStock(@PathVariable("id") Long idToFind){
-        return inventoryService.isInStock(idToFind);
+    public List<InventoryResponse> isInStock(@RequestParam List<String> skuCode){
+        List<String> listSkuCode1 = skuCode;
+        return inventoryService.isInStock(skuCode);
     }
 }
